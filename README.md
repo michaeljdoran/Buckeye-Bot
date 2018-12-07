@@ -20,4 +20,4 @@
 In order to get it to function the user must create an auth.json file containing the Discord Bot Token. The auth.json file should be in the same folder as the bot.js file. Alternatively, OSU-Bot can be added to a discord server by following this link and adding it:
 <br/>https://discordapp.com/oauth2/authorize?client_id=515927888596303912&scope=bot&permissions=75840
 
-<br/>However, I can not promise that the bot will be online too often.
+<br/>However, I can't promise that the bot will be online too often.
